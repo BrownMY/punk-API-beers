@@ -1,35 +1,25 @@
 # punk-api-beers
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+A small VUE app to learn about different beers. To search for a beer, use the search bar at the top.
 
 ## Project Setup
+From github:
+
+clone the project into a local repository with:
+```sh
+git clone {github link}
+```
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Run the app
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### View the UI
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+visit localhost{PORT} in the browser
